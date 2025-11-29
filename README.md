@@ -57,6 +57,3 @@ The notebook in this repo demonstrates how to work with these probabilities in p
   - `torch`
   - `Pillow`
   - `requests`
-
-git clone https://github.com/<your-username>/SigLIPSigmoidLossLanguageImagePretraining.git
-cd SigLIPSigmoidLossLanguageImagePretraining
