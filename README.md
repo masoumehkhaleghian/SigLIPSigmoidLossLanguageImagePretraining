@@ -34,7 +34,7 @@ The notebook in this repo demonstrates how to work with these probabilities in p
 
 - `Inference_with_(multilingual)_SigLIP_a_better_CLIP_model.ipynb`  
   Jupyter notebook that walks through:
-  - Installing the latest 🤗 Transformers and `sentencepiece`
+  - Installing the latest Transformers and `sentencepiece`
   - Loading the **shape-optimized SO400M** SigLIP checkpoint:
     - `google/siglip-so400m-patch14-384`
   - Downloading a sample image from COCO
